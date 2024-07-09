@@ -6,3 +6,8 @@ Weather dataset:[WeatherDataset.csv](https://github.com/user-attachments/files/1
 
 Outlier Detection and Removal:
 [winequality.csv](https://github.com/user-attachments/files/16128455/winequality.csv)
+
+Customer Churn Analysis:
+[Customerchurn.csv](https://github.com/user-attachments/files/16145277/Customerchurn.csv)
+
+
