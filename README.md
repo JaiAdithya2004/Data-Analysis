@@ -10,4 +10,6 @@ Outlier Detection and Removal:
 Customer Churn Analysis:
 [Customerchurn.csv](https://github.com/user-attachments/files/16145277/Customerchurn.csv)
 
+SupplyChain Analysis:
+[supply_chain_data.csv](https://github.com/user-attachments/files/16196785/supply_chain_data.csv)
 
